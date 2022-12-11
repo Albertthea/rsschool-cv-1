@@ -4,6 +4,8 @@
 Mail: __iana.spiridonova@bk.ru__
 Discord: __@ Albertthea__
 
+***
+
 ## currently
 learning *frontend* development
 
