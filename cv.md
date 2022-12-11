@@ -1,7 +1,7 @@
 # Spiridonova Yana
 ***
 
-__iana.spiridonova@bk.ru__
+Mail: __iana.spiridonova@bk.ru__
 Discord: __@ Albertthea__
 
 ## currently
