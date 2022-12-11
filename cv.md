@@ -1,6 +1,8 @@
 # Spiridonova Yana
+***
 
 __iana.spiridonova@bk.ru__
+Discord: __@ Albertthea__
 
 ## currently
 learning *frontend* development
@@ -14,6 +16,7 @@ learning *frontend* development
 
 ## Examples
 > https://github.com/Albertthea
+> https://github.com/Albertthea/Projects.git
 
 ## experience
 2021 - __Innopolis School__
